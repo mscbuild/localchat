@@ -1,7 +1,8 @@
  # LocalChat 🌐
  
 <a href="https://github.com/mscbuild"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
-![](https://komarev.com/ghpvc/?username=mscbuild) 
+![](https://komarev.com/ghpvc/?username=mscbuild)
+[![Author](https://img.shields.io/badge/Author-Yuri%20Dev-blue.svg)](http://mscbuild.github.io/)
  ![](https://img.shields.io/github/license/mscbuild/localchat) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
  ![](https://img.shields.io/github/languages/code-size/mscbuild/localchat)

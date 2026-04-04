@@ -1,3 +1,6 @@
+[repo]: https://github.com/mscbuild/localchat/
+[demo]: https://mscbuild.github.io/localchat/
+ 
  # LocalChat 🌐
  
 <a href="https://github.com/mscbuild"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
@@ -13,6 +16,8 @@
 
 
 > A private web interface for local LLMs. Works with Ollama, LM Studio, and any OpenAI-compatible API.
+
+##### [ View Live Preview][demo]
 
  
 ## ✨ Peculiarities
